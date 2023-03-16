@@ -5,8 +5,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mauren Gómez",
-            "email": "correo@itfip.edu.co"
+            "name": "Reina Cardenas Natalia Elizabeth",
+            "email": "nreina73@itfip.edu.co"
+        },
+        {
+            "name": "mauren yizeth gomez rojas",
+            "email": "MGOMEZ18@itfip.edu.co"
         }
     ],
     "autoload": {
